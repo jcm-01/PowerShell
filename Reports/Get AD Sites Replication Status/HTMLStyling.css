@@ -1,0 +1,36 @@
+<style>
+h1 {
+	color: #004C90;
+	font: 105% Helvetica;
+	font-weight: bold;
+	padding-top: 20px;
+}
+h2 {
+	color: #A8A8A8;
+	font: 70% Helvetica;
+}
+table {
+	border-collapse: collapse;
+	background-color: #F5F5F5;
+}
+caption, th, td {
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+th {
+	border: 2px solid white;
+	background-color: #004C90;
+	color: white;
+	font: 95% Helvetica;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+td {
+	color: #004C90;
+	font: 75% Helvetica;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+</style>
